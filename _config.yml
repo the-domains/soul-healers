@@ -1,0 +1,28 @@
+name: Soul Healers
+favicon: null
+layout_spectrum: 0.23338582506403327
+typography_spectrum: 0.84599454770796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8959220366086811
+  lightness: 0.37837807065807283
+  saturation: 0.24488785164430737
+  rhythmicContrast: 0.6706881418358535
+purpose: []
